@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+snakes
+networkx
+psycopg[binary]
+sqlalchemy
+pydantic
+# 测试
+pytest
+httpx
+anyio
